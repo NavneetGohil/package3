@@ -1,5 +1,5 @@
 {
-    "name": "mypack/navneet",
+    "name": "testpackage/navneet",
     "description": "test package",
     "type": "package",
     "license": "MIT",
